@@ -15,7 +15,7 @@ This Python script automates the process of data entry for rental properties in 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/data-entry-automation.git
+    git clone https://github.com/Joy9001/Data-Entry-Job-Automation.git
     ```
 
 2. Install the required dependencies:
